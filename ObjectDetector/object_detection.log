@@ -1526,3 +1526,304 @@
 2025-04-24 16:08:57,753 - Object 112 (person) disappeared
 2025-04-24 16:08:57,814 - New object detected: ID 113, Class: person, Confidence: 0.54, Center: (288, 404)
 2025-04-24 16:08:57,885 - Object 113 (person) disappeared
+2025-04-24 16:17:55,166 - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-04-24 16:17:55,166 - NumExpr defaulting to 8 threads.
+2025-04-24 16:17:59,840 - New object detected: ID 0, Class: person, Confidence: 0.93, Center: (238, 330)
+2025-04-24 16:17:59,840 - New object detected: ID 1, Class: person, Confidence: 0.79, Center: (109, 346)
+2025-04-24 16:18:00,014 - Object 1 (person) disappeared
+2025-04-24 16:18:00,139 - New object detected: ID 2, Class: person, Confidence: 0.64, Center: (86, 397)
+2025-04-24 16:18:00,333 - Object 2 (person) disappeared
+2025-04-24 16:18:01,504 - New object detected: ID 3, Class: person, Confidence: 0.50, Center: (350, 405)
+2025-04-24 16:18:01,546 - Object 3 (person) disappeared
+2025-04-24 16:18:01,591 - New object detected: ID 4, Class: person, Confidence: 0.55, Center: (350, 405)
+2025-04-24 16:18:01,672 - Object 4 (person) disappeared
+2025-04-24 16:18:01,710 - New object detected: ID 5, Class: person, Confidence: 0.56, Center: (350, 406)
+2025-04-24 16:18:01,937 - New object detected: ID 6, Class: person, Confidence: 0.51, Center: (431, 332)
+2025-04-24 16:18:01,975 - Object 6 (person) disappeared
+2025-04-24 16:18:02,021 - New object detected: ID 7, Class: person, Confidence: 0.57, Center: (441, 330)
+2025-04-24 16:18:02,021 - New object detected: ID 8, Class: person, Confidence: 0.55, Center: (286, 401)
+2025-04-24 16:18:02,168 - New object detected: ID 9, Class: person, Confidence: 0.52, Center: (345, 406)
+2025-04-24 16:18:02,203 - Object 7 (person) disappeared
+2025-04-24 16:18:02,203 - Object 8 (person) disappeared
+2025-04-24 16:18:02,203 - Object 9 (person) disappeared
+2025-04-24 16:18:02,249 - New object detected: ID 10, Class: person, Confidence: 0.50, Center: (289, 399)
+2025-04-24 16:18:02,283 - Object 10 (person) disappeared
+2025-04-24 16:18:02,354 - New object detected: ID 11, Class: person, Confidence: 0.51, Center: (395, 333)
+2025-04-24 16:18:02,354 - New object detected: ID 12, Class: person, Confidence: 0.50, Center: (288, 404)
+2025-04-24 16:18:02,386 - Object 11 (person) disappeared
+2025-04-24 16:18:02,386 - Object 12 (person) disappeared
+2025-04-24 16:18:02,479 - New object detected: ID 13, Class: person, Confidence: 0.53, Center: (255, 399)
+2025-04-24 16:18:02,525 - Object 13 (person) disappeared
+2025-04-24 16:18:02,565 - New object detected: ID 14, Class: person, Confidence: 0.51, Center: (289, 403)
+2025-04-24 16:18:02,628 - Object 5 (person) disappeared
+2025-04-24 16:18:02,709 - New object detected: ID 15, Class: person, Confidence: 0.80, Center: (413, 326)
+2025-04-24 16:18:02,709 - New object detected: ID 16, Class: person, Confidence: 0.51, Center: (255, 404)
+2025-04-24 16:18:02,761 - Object 14 (person) disappeared
+2025-04-24 16:18:02,900 - New object detected: ID 17, Class: person, Confidence: 0.57, Center: (225, 401)
+2025-04-24 16:18:02,938 - Object 17 (person) disappeared
+2025-04-24 16:18:02,985 - New object detected: ID 18, Class: person, Confidence: 0.54, Center: (187, 399)
+2025-04-24 16:18:03,034 - Object 18 (person) disappeared
+2025-04-24 16:18:03,146 - New object detected: ID 19, Class: person, Confidence: 0.62, Center: (189, 404)
+2025-04-24 16:18:03,191 - Object 19 (person) disappeared
+2025-04-24 16:18:03,229 - New object detected: ID 20, Class: person, Confidence: 0.55, Center: (189, 401)
+2025-04-24 16:18:03,278 - Object 20 (person) disappeared
+2025-04-24 16:18:03,504 - Object 16 (person) disappeared
+2025-04-24 16:18:03,610 - New object detected: ID 21, Class: person, Confidence: 0.70, Center: (316, 313)
+2025-04-24 16:18:03,610 - Object 15 (person) disappeared
+2025-04-24 16:18:03,610 - Object 0 (person) disappeared
+2025-04-24 16:18:03,766 - New object detected: ID 22, Class: person, Confidence: 0.75, Center: (332, 308)
+2025-04-24 16:18:03,805 - Object 21 (bottle) disappeared
+2025-04-24 16:18:03,866 - Object 22 (person) disappeared
+2025-04-24 16:18:03,898 - New object detected: ID 23, Class: person, Confidence: 0.68, Center: (429, 243)
+2025-04-24 16:18:03,934 - New object detected: ID 24, Class: person, Confidence: 0.76, Center: (310, 308)
+2025-04-24 16:18:03,934 - Object 23 (person) disappeared
+2025-04-24 16:18:04,003 - New object detected: ID 25, Class: person, Confidence: 0.57, Center: (450, 295)
+2025-04-24 16:18:04,066 - Object 24 (person) disappeared
+2025-04-24 16:18:04,179 - New object detected: ID 26, Class: person, Confidence: 0.51, Center: (147, 319)
+2025-04-24 16:18:04,265 - Object 25 (person) disappeared
+2025-04-24 16:18:04,372 - New object detected: ID 27, Class: person, Confidence: 0.86, Center: (446, 297)
+2025-04-24 16:18:04,407 - New object detected: ID 28, Class: person, Confidence: 0.69, Center: (316, 312)
+2025-04-24 16:18:04,407 - New object detected: ID 29, Class: diningtable, Confidence: 0.60, Center: (311, 350)
+2025-04-24 16:18:04,407 - Object 27 (person) disappeared
+2025-04-24 16:18:04,441 - Object 28 (person) disappeared
+2025-04-24 16:18:04,441 - Object 26 (chair) disappeared
+2025-04-24 16:18:04,441 - Object 29 (diningtable) disappeared
+2025-04-24 16:18:04,497 - New object detected: ID 30, Class: diningtable, Confidence: 0.61, Center: (292, 334)
+2025-04-24 16:18:04,497 - New object detected: ID 31, Class: person, Confidence: 0.57, Center: (309, 309)
+2025-04-24 16:18:04,540 - Object 30 (diningtable) disappeared
+2025-04-24 16:18:04,670 - New object detected: ID 32, Class: person, Confidence: 0.79, Center: (459, 298)
+2025-04-24 16:18:04,670 - Object 31 (person) disappeared
+2025-04-24 16:18:04,908 - New object detected: ID 33, Class: person, Confidence: 0.67, Center: (321, 279)
+2025-04-24 16:18:04,908 - Object 32 (person) disappeared
+2025-04-24 16:18:04,956 - New object detected: ID 34, Class: person, Confidence: 0.64, Center: (463, 296)
+2025-04-24 16:18:04,956 - Object 33 (person) disappeared
+2025-04-24 16:18:05,049 - Object 34 (person) disappeared
+2025-04-24 16:18:05,115 - New object detected: ID 35, Class: tvmonitor, Confidence: 0.56, Center: (318, 255)
+2025-04-24 16:18:05,211 - Object 35 (tvmonitor) disappeared
+2025-04-24 16:18:05,246 - New object detected: ID 36, Class: tvmonitor, Confidence: 0.55, Center: (318, 245)
+2025-04-24 16:18:05,280 - Object 36 (tvmonitor) disappeared
+2025-04-24 16:18:05,663 - New object detected: ID 37, Class: tvmonitor, Confidence: 0.54, Center: (306, 250)
+2025-04-24 16:18:05,705 - Object 37 (tvmonitor) disappeared
+2025-04-24 16:18:06,118 - New object detected: ID 38, Class: person, Confidence: 0.54, Center: (546, 301)
+2025-04-24 16:18:06,362 - Object 38 (person) disappeared
+2025-04-24 16:18:06,393 - New object detected: ID 39, Class: person, Confidence: 0.64, Center: (548, 308)
+2025-04-24 16:18:06,490 - Object 39 (person) disappeared
+2025-04-24 16:18:06,609 - New object detected: ID 40, Class: person, Confidence: 0.67, Center: (553, 306)
+2025-04-24 16:18:07,245 - Object 40 (person) disappeared
+2025-04-24 16:18:07,281 - New object detected: ID 41, Class: bottle, Confidence: 0.56, Center: (280, 265)
+2025-04-24 16:18:07,330 - New object detected: ID 42, Class: person, Confidence: 0.60, Center: (552, 311)
+2025-04-24 16:18:07,330 - Object 41 (bottle) disappeared
+2025-04-24 16:18:07,365 - Object 42 (person) disappeared
+2025-04-24 16:18:07,442 - New object detected: ID 43, Class: bottle, Confidence: 0.52, Center: (269, 266)
+2025-04-24 16:18:07,511 - Object 43 (sofa) disappeared
+2025-04-24 16:18:07,560 - New object detected: ID 44, Class: person, Confidence: 0.52, Center: (527, 291)
+2025-04-24 16:18:07,643 - Object 44 (person) disappeared
+2025-04-24 16:18:07,851 - New object detected: ID 45, Class: person, Confidence: 0.65, Center: (466, 204)
+2025-04-24 16:18:07,851 - New object detected: ID 46, Class: person, Confidence: 0.56, Center: (526, 287)
+2025-04-24 16:18:07,935 - Object 46 (person) disappeared
+2025-04-24 16:18:08,023 - New object detected: ID 47, Class: person, Confidence: 0.56, Center: (540, 299)
+2025-04-24 16:18:08,075 - Object 45 (person) disappeared
+2025-04-24 16:18:08,075 - Object 47 (person) disappeared
+2025-04-24 16:18:08,201 - New object detected: ID 48, Class: person, Confidence: 0.53, Center: (532, 288)
+2025-04-24 16:18:09,316 - Object 48 (person) disappeared
+2025-04-24 16:18:09,360 - New object detected: ID 49, Class: person, Confidence: 0.62, Center: (514, 296)
+2025-04-24 16:18:09,407 - New object detected: ID 50, Class: person, Confidence: 0.59, Center: (405, 211)
+2025-04-24 16:18:09,441 - Object 50 (person) disappeared
+2025-04-24 16:18:09,441 - Periodic log: 1 objects detected
+- ID 49: person, Confidence: 0.56, Center: (515, 292)
+2025-04-24 16:18:09,686 - Object 49 (person) disappeared
+2025-04-24 16:18:10,045 - New object detected: ID 51, Class: person, Confidence: 0.54, Center: (317, 275)
+2025-04-24 16:18:10,080 - New object detected: ID 52, Class: person, Confidence: 0.61, Center: (549, 305)
+2025-04-24 16:18:10,080 - Object 51 (person) disappeared
+2025-04-24 16:18:10,157 - Object 52 (person) disappeared
+2025-04-24 16:18:10,233 - New object detected: ID 53, Class: bottle, Confidence: 0.52, Center: (292, 261)
+2025-04-24 16:18:10,323 - Object 53 (bottle) disappeared
+2025-04-24 16:18:10,360 - New object detected: ID 54, Class: bottle, Confidence: 0.69, Center: (301, 246)
+2025-04-24 16:18:11,642 - Object 54 (bottle) disappeared
+2025-04-24 16:18:11,707 - New object detected: ID 55, Class: bottle, Confidence: 0.69, Center: (317, 239)
+2025-04-24 16:18:11,777 - Object 55 (bottle) disappeared
+2025-04-24 16:18:11,839 - New object detected: ID 56, Class: bottle, Confidence: 0.57, Center: (318, 239)
+2025-04-24 16:18:14,025 - Object 56 (bottle) disappeared
+2025-04-24 16:18:14,096 - New object detected: ID 57, Class: bottle, Confidence: 0.59, Center: (319, 240)
+2025-04-24 16:18:14,221 - Object 57 (bottle) disappeared
+2025-04-24 16:18:14,260 - New object detected: ID 58, Class: bottle, Confidence: 0.66, Center: (317, 240)
+2025-04-24 16:18:14,624 - Object 58 (bottle) disappeared
+2025-04-24 16:18:15,135 - New object detected: ID 59, Class: bottle, Confidence: 0.60, Center: (318, 240)
+2025-04-24 16:18:16,246 - Object 59 (tvmonitor) disappeared
+2025-04-24 16:18:16,343 - New object detected: ID 60, Class: car, Confidence: 0.71, Center: (318, 319)
+2025-04-24 16:18:16,377 - Object 60 (car) disappeared
+2025-04-24 16:18:16,420 - New object detected: ID 61, Class: car, Confidence: 0.51, Center: (318, 244)
+2025-04-24 16:18:16,455 - Object 61 (car) disappeared
+2025-04-24 16:18:16,501 - New object detected: ID 62, Class: car, Confidence: 0.60, Center: (319, 243)
+2025-04-24 16:18:16,556 - New object detected: ID 63, Class: car, Confidence: 0.53, Center: (320, 241)
+2025-04-24 16:18:16,601 - Object 62 (tvmonitor) disappeared
+2025-04-24 16:18:16,740 - Object 63 (car) disappeared
+2025-04-24 16:18:16,818 - New object detected: ID 64, Class: person, Confidence: 0.66, Center: (187, 259)
+2025-04-24 16:18:16,819 - New object detected: ID 65, Class: diningtable, Confidence: 0.52, Center: (331, 287)
+2025-04-24 16:18:16,865 - Object 65 (diningtable) disappeared
+2025-04-24 16:18:16,921 - New object detected: ID 66, Class: person, Confidence: 0.70, Center: (448, 298)
+2025-04-24 16:18:16,969 - Object 66 (person) disappeared
+2025-04-24 16:18:17,014 - New object detected: ID 67, Class: person, Confidence: 0.91, Center: (461, 291)
+2025-04-24 16:18:17,285 - New object detected: ID 68, Class: person, Confidence: 0.83, Center: (318, 288)
+2025-04-24 16:18:17,322 - Object 68 (person) disappeared
+2025-04-24 16:18:17,498 - Object 67 (person) disappeared
+2025-04-24 16:18:17,534 - New object detected: ID 69, Class: person, Confidence: 0.51, Center: (81, 279)
+2025-04-24 16:18:17,570 - Object 69 (person) disappeared
+2025-04-24 16:18:17,636 - New object detected: ID 70, Class: person, Confidence: 0.68, Center: (81, 282)
+2025-04-24 16:18:17,636 - New object detected: ID 71, Class: diningtable, Confidence: 0.59, Center: (327, 393)
+2025-04-24 16:18:17,679 - Object 71 (diningtable) disappeared
+2025-04-24 16:18:17,774 - New object detected: ID 72, Class: diningtable, Confidence: 0.50, Center: (324, 401)
+2025-04-24 16:18:17,774 - Object 70 (person) disappeared
+2025-04-24 16:18:17,820 - New object detected: ID 73, Class: person, Confidence: 0.54, Center: (86, 286)
+2025-04-24 16:18:17,821 - Object 72 (diningtable) disappeared
+2025-04-24 16:18:17,868 - New object detected: ID 74, Class: person, Confidence: 0.74, Center: (454, 295)
+2025-04-24 16:18:17,911 - Object 73 (person) disappeared
+2025-04-24 16:18:17,948 - Object 74 (person) disappeared
+2025-04-24 16:18:18,025 - New object detected: ID 75, Class: person, Confidence: 0.59, Center: (430, 247)
+2025-04-24 16:18:18,066 - New object detected: ID 76, Class: person, Confidence: 0.63, Center: (86, 285)
+2025-04-24 16:18:18,233 - Object 76 (person) disappeared
+2025-04-24 16:18:18,279 - Object 75 (person) disappeared
+2025-04-24 16:29:00,534 - New object detected: ID 0, Class: person, Confidence: 0.91, Center: (309, 296)
+2025-04-24 16:29:00,605 - New object detected: ID 1, Class: person, Confidence: 0.94, Center: (457, 298)
+2025-04-24 16:29:00,605 - New object detected: ID 2, Class: person, Confidence: 0.94, Center: (178, 290)
+2025-04-24 16:29:00,605 - Object 0 (person) disappeared
+2025-04-24 16:29:02,060 - New object detected: ID 3, Class: person, Confidence: 0.97, Center: (318, 295)
+2025-04-24 16:29:02,060 - Object 2 (person) disappeared
+2025-04-24 16:29:02,060 - Object 1 (person) disappeared
+2025-04-24 16:29:02,114 - New object detected: ID 4, Class: person, Confidence: 0.97, Center: (185, 295)
+2025-04-24 16:29:02,116 - New object detected: ID 5, Class: person, Confidence: 0.74, Center: (450, 295)
+2025-04-24 16:29:02,116 - Object 3 (person) disappeared
+2025-04-24 16:29:02,378 - Object 4 (person) disappeared
+2025-04-24 16:29:02,701 - New object detected: ID 6, Class: person, Confidence: 0.59, Center: (152, 288)
+2025-04-24 16:29:02,897 - Object 6 (person) disappeared
+2025-04-24 16:29:02,930 - New object detected: ID 7, Class: person, Confidence: 0.78, Center: (198, 296)
+2025-04-24 16:29:02,958 - Object 7 (person) disappeared
+2025-04-24 16:29:03,032 - New object detected: ID 8, Class: person, Confidence: 0.77, Center: (166, 289)
+2025-04-24 16:29:03,834 - Object 8 (person) disappeared
+2025-04-24 16:29:03,916 - New object detected: ID 9, Class: person, Confidence: 0.89, Center: (183, 291)
+2025-04-24 16:29:04,112 - Object 9 (person) disappeared
+2025-04-24 16:29:04,181 - New object detected: ID 10, Class: person, Confidence: 0.85, Center: (178, 287)
+2025-04-24 16:29:04,215 - Object 10 (person) disappeared
+2025-04-24 16:29:04,667 - New object detected: ID 11, Class: person, Confidence: 0.87, Center: (192, 293)
+2025-04-24 16:29:04,792 - Object 5 (person) disappeared
+2025-04-24 16:30:25,023 - New object detected: ID 0, Class: person, Confidence: 0.99, Center: (193, 321)
+2025-04-24 16:30:25,023 - New object detected: ID 1, Class: person, Confidence: 0.68, Center: (422, 302)
+2025-04-24 16:30:25,387 - New object detected: ID 2, Class: chair, Confidence: 0.56, Center: (158, 340)
+2025-04-24 16:30:25,422 - Object 2 (chair) disappeared
+2025-04-24 16:30:25,644 - New object detected: ID 3, Class: chair, Confidence: 0.57, Center: (155, 347)
+2025-04-24 16:30:25,687 - Object 3 (chair) disappeared
+2025-04-24 16:30:25,776 - New object detected: ID 4, Class: chair, Confidence: 0.68, Center: (146, 366)
+2025-04-24 16:30:25,811 - New object detected: ID 5, Class: chair, Confidence: 0.68, Center: (262, 363)
+2025-04-24 16:30:25,845 - Object 5 (chair) disappeared
+2025-04-24 16:30:25,929 - New object detected: ID 6, Class: chair, Confidence: 0.55, Center: (223, 364)
+2025-04-24 16:30:25,963 - Object 6 (chair) disappeared
+2025-04-24 16:30:26,047 - Object 4 (chair) disappeared
+2025-04-24 16:30:26,338 - New object detected: ID 7, Class: person, Confidence: 0.94, Center: (315, 316)
+2025-04-24 16:30:26,338 - Object 0 (person) disappeared
+2025-04-24 16:30:26,417 - Object 1 (person) disappeared
+2025-04-24 16:30:26,699 - New object detected: ID 8, Class: person, Confidence: 0.69, Center: (468, 310)
+2025-04-24 16:30:26,771 - Object 8 (person) disappeared
+2025-04-24 16:30:26,813 - New object detected: ID 9, Class: person, Confidence: 0.77, Center: (460, 317)
+2025-04-24 16:30:26,944 - New object detected: ID 10, Class: person, Confidence: 0.95, Center: (316, 325)
+2025-04-24 16:30:26,944 - Object 7 (person) disappeared
+2025-04-24 16:30:26,944 - Object 9 (person) disappeared
+2025-04-24 16:30:26,984 - New object detected: ID 11, Class: person, Confidence: 0.55, Center: (457, 321)
+2025-04-24 16:30:27,021 - Object 11 (person) disappeared
+2025-04-24 16:30:27,206 - New object detected: ID 12, Class: person, Confidence: 0.88, Center: (445, 326)
+2025-04-24 16:30:27,539 - Object 12 (person) disappeared
+2025-04-24 16:30:27,766 - New object detected: ID 13, Class: diningtable, Confidence: 0.63, Center: (482, 295)
+2025-04-24 16:30:27,810 - Object 13 (diningtable) disappeared
+2025-04-24 16:30:27,970 - New object detected: ID 14, Class: diningtable, Confidence: 0.88, Center: (472, 270)
+2025-04-24 16:30:28,048 - Object 14 (diningtable) disappeared
+2025-04-24 16:30:28,400 - New object detected: ID 15, Class: person, Confidence: 0.71, Center: (326, 257)
+2025-04-24 16:30:28,492 - Object 15 (person) disappeared
+2025-04-24 16:30:28,649 - New object detected: ID 16, Class: person, Confidence: 0.86, Center: (282, 243)
+2025-04-24 16:30:28,649 - Object 10 (person) disappeared
+2025-04-24 16:30:28,687 - New object detected: ID 17, Class: person, Confidence: 0.55, Center: (166, 311)
+2025-04-24 16:30:28,720 - Object 16 (person) disappeared
+2025-04-24 16:30:28,840 - New object detected: ID 18, Class: chair, Confidence: 0.52, Center: (131, 360)
+2025-04-24 16:30:28,945 - New object detected: ID 19, Class: person, Confidence: 0.71, Center: (316, 247)
+2025-04-24 16:30:28,986 - Object 19 (person) disappeared
+2025-04-24 16:30:29,206 - New object detected: ID 20, Class: person, Confidence: 0.95, Center: (319, 314)
+2025-04-24 16:30:29,206 - Object 17 (person) disappeared
+2025-04-24 16:30:29,206 - Object 18 (chair) disappeared
+2025-04-24 16:30:29,699 - New object detected: ID 21, Class: chair, Confidence: 0.56, Center: (169, 369)
+2025-04-24 16:30:29,957 - Object 21 (chair) disappeared
+2025-04-24 16:30:31,084 - New object detected: ID 22, Class: person, Confidence: 0.82, Center: (202, 325)
+2025-04-24 16:30:31,084 - Object 20 (person) disappeared
+2025-04-24 16:30:31,133 - New object detected: ID 23, Class: person, Confidence: 0.85, Center: (315, 308)
+2025-04-24 16:30:31,133 - Object 22 (person) disappeared
+2025-04-24 16:30:31,765 - New object detected: ID 24, Class: person, Confidence: 0.59, Center: (219, 324)
+2025-04-24 16:30:31,847 - Object 24 (person) disappeared
+2025-04-24 16:30:34,144 - New object detected: ID 25, Class: person, Confidence: 0.83, Center: (171, 310)
+2025-04-24 16:30:34,177 - Object 25 (person) disappeared
+2025-04-24 16:30:34,236 - New object detected: ID 26, Class: person, Confidence: 0.51, Center: (170, 300)
+2025-04-24 16:30:34,277 - Object 26 (person) disappeared
+2025-04-24 16:30:34,662 - Periodic log: 1 objects detected
+- ID 23: person, Confidence: 0.96, Center: (320, 298)
+2025-04-24 16:30:34,972 - New object detected: ID 27, Class: person, Confidence: 0.93, Center: (162, 296)
+2025-04-24 16:30:35,728 - New object detected: ID 28, Class: person, Confidence: 0.92, Center: (436, 294)
+2025-04-24 16:30:35,729 - Object 23 (person) disappeared
+2025-04-24 16:30:35,866 - Object 27 (person) disappeared
+2025-04-24 16:30:35,977 - New object detected: ID 29, Class: person, Confidence: 0.50, Center: (151, 295)
+2025-04-24 16:30:36,057 - Object 29 (person) disappeared
+2025-04-24 16:30:36,090 - New object detected: ID 30, Class: person, Confidence: 0.57, Center: (164, 295)
+2025-04-24 16:30:36,392 - New object detected: ID 31, Class: person, Confidence: 0.92, Center: (330, 302)
+2025-04-24 16:30:36,392 - Object 30 (person) disappeared
+2025-04-24 16:30:36,392 - Object 28 (person) disappeared
+2025-04-24 16:30:36,443 - New object detected: ID 32, Class: person, Confidence: 0.92, Center: (442, 295)
+2025-04-24 16:30:36,443 - New object detected: ID 33, Class: person, Confidence: 0.88, Center: (170, 298)
+2025-04-24 16:30:36,443 - Object 31 (person) disappeared
+2025-04-24 16:30:36,560 - New object detected: ID 34, Class: person, Confidence: 0.89, Center: (330, 302)
+2025-04-24 16:30:36,561 - Object 32 (person) disappeared
+2025-04-24 16:30:36,955 - Object 33 (person) disappeared
+2025-04-24 16:30:37,042 - New object detected: ID 35, Class: person, Confidence: 0.74, Center: (164, 302)
+2025-04-24 16:30:37,401 - Object 35 (person) disappeared
+2025-04-24 16:30:37,522 - New object detected: ID 36, Class: person, Confidence: 0.75, Center: (160, 300)
+2025-04-24 16:30:37,631 - New object detected: ID 37, Class: person, Confidence: 0.86, Center: (442, 294)
+2025-04-24 16:30:37,631 - Object 34 (person) disappeared
+2025-04-24 16:30:37,762 - New object detected: ID 38, Class: person, Confidence: 0.84, Center: (333, 306)
+2025-04-24 16:30:37,763 - Object 37 (person) disappeared
+2025-04-24 16:30:39,469 - Object 36 (person) disappeared
+2025-04-24 16:30:39,622 - New object detected: ID 39, Class: person, Confidence: 0.95, Center: (173, 292)
+2025-04-24 16:30:39,975 - Object 39 (person) disappeared
+2025-04-24 16:30:40,213 - New object detected: ID 40, Class: person, Confidence: 0.92, Center: (179, 285)
+2025-04-24 16:30:40,535 - New object detected: ID 41, Class: person, Confidence: 0.91, Center: (452, 288)
+2025-04-24 16:30:40,535 - Object 38 (person) disappeared
+2025-04-24 16:30:44,225 - New object detected: ID 42, Class: person, Confidence: 0.98, Center: (305, 290)
+2025-04-24 16:30:44,225 - Object 40 (person) disappeared
+2025-04-24 16:30:44,225 - Object 41 (person) disappeared
+2025-04-24 16:30:44,361 - New object detected: ID 43, Class: person, Confidence: 0.97, Center: (462, 297)
+2025-04-24 16:30:44,460 - New object detected: ID 44, Class: person, Confidence: 0.95, Center: (154, 286)
+2025-04-24 16:30:44,713 - Periodic log: 3 objects detected
+- ID 43: person, Confidence: 0.99, Center: (463, 297)
+- ID 44: person, Confidence: 0.94, Center: (147, 287)
+- ID 42: person, Confidence: 0.69, Center: (281, 280)
+2025-04-24 16:30:48,889 - Object 42 (person) disappeared
+2025-04-24 16:30:49,269 - New object detected: ID 45, Class: person, Confidence: 0.70, Center: (296, 296)
+2025-04-24 16:30:51,444 - Object 45 (person) disappeared
+2025-04-24 16:30:51,775 - New object detected: ID 46, Class: person, Confidence: 0.59, Center: (298, 295)
+2025-04-24 16:30:51,873 - Object 46 (person) disappeared
+2025-04-24 16:30:52,149 - New object detected: ID 47, Class: person, Confidence: 0.60, Center: (301, 295)
+2025-04-24 16:30:52,253 - Object 47 (person) disappeared
+2025-04-24 16:30:52,365 - New object detected: ID 48, Class: person, Confidence: 0.54, Center: (303, 296)
+2025-04-24 16:30:52,495 - Object 48 (person) disappeared
+2025-04-24 16:30:53,568 - New object detected: ID 49, Class: person, Confidence: 0.59, Center: (310, 289)
+2025-04-24 16:30:53,803 - Object 49 (person) disappeared
+2025-04-24 16:30:54,775 - Periodic log: 2 objects detected
+- ID 43: person, Confidence: 0.97, Center: (464, 287)
+- ID 44: person, Confidence: 0.97, Center: (215, 280)
+2025-04-24 16:30:56,025 - New object detected: ID 50, Class: person, Confidence: 0.93, Center: (306, 292)
+2025-04-24 16:30:56,025 - Object 43 (person) disappeared
+2025-04-24 16:30:56,025 - Object 44 (person) disappeared
+2025-04-24 16:30:56,248 - New object detected: ID 51, Class: person, Confidence: 0.93, Center: (463, 289)
+2025-04-24 16:31:09,416 - New object detected: ID 0, Class: person, Confidence: 0.99, Center: (173, 283)
+2025-04-24 16:31:09,416 - New object detected: ID 1, Class: person, Confidence: 0.78, Center: (458, 290)
+2025-04-24 16:38:18,951 - New object detected: ID 0, Class: person, Confidence: 0.99, Center: (163, 320)
+2025-04-24 16:38:18,951 - New object detected: ID 1, Class: person, Confidence: 0.98, Center: (474, 283)
+2025-04-24 16:38:21,729 - New object detected: ID 2, Class: person, Confidence: 0.95, Center: (441, 277)
+2025-04-24 16:38:21,729 - Object 1 (person) disappeared
+2025-04-24 16:38:21,818 - New object detected: ID 3, Class: person, Confidence: 0.56, Center: (274, 370)
+2025-04-24 16:38:21,895 - Object 3 (person) disappeared
+2025-04-24 16:38:22,276 - New object detected: ID 4, Class: chair, Confidence: 0.56, Center: (147, 381)
+2025-04-24 16:38:22,440 - Object 4 (chair) disappeared
