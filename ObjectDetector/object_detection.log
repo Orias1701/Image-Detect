@@ -1,0 +1,39 @@
+2025-04-24 15:16:39,299 - New object detected: ID 0, Class: person, Confidence: 0.98, Center: (np.int64(315), np.int64(321))
+2025-04-24 15:16:45,077 - Object 0 (person) disappeared
+2025-04-24 15:16:46,344 - New object detected: ID 1, Class: chair, Confidence: 0.54, Center: (np.int64(212), np.int64(283))
+2025-04-24 15:16:46,407 - Object 1 (chair) disappeared
+2025-04-24 15:16:46,811 - New object detected: ID 2, Class: person, Confidence: 0.75, Center: (np.int64(238), np.int64(304))
+2025-04-24 15:16:48,951 - Periodic log: 1 objects detected
+- ID 2: person, Confidence: 0.99, Center: (np.int64(297), np.int64(314))
+2025-04-24 15:16:55,624 - New object detected: ID 3, Class: bottle, Confidence: 0.51, Center: (np.int64(155), np.int64(298))
+2025-04-24 15:16:55,705 - Object 3 (bottle) disappeared
+2025-04-24 15:16:58,968 - Periodic log: 1 objects detected
+- ID 2: person, Confidence: 0.99, Center: (np.int64(301), np.int64(309))
+2025-04-24 15:17:06,124 - New object detected: ID 4, Class: chair, Confidence: 0.75, Center: (np.int64(111), np.int64(354))
+2025-04-24 15:17:06,329 - Object 4 (chair) disappeared
+2025-04-24 15:17:07,995 - New object detected: ID 5, Class: chair, Confidence: 0.50, Center: (np.int64(108), np.int64(359))
+2025-04-24 15:17:08,121 - New object detected: ID 6, Class: tvmonitor, Confidence: 0.65, Center: (np.int64(114), np.int64(365))
+2025-04-24 15:17:08,183 - Object 5 (chair) disappeared
+2025-04-24 15:17:08,184 - Object 6 (tvmonitor) disappeared
+2025-04-24 15:17:08,403 - New object detected: ID 7, Class: chair, Confidence: 0.50, Center: (np.int64(117), np.int64(367))
+2025-04-24 15:17:08,465 - Object 7 (chair) disappeared
+2025-04-24 15:17:08,998 - Periodic log: 1 objects detected
+- ID 2: person, Confidence: 0.98, Center: (np.int64(343), np.int64(317))
+2025-04-24 15:17:09,399 - New object detected: ID 8, Class: tvmonitor, Confidence: 0.68, Center: (np.int64(115), np.int64(362))
+2025-04-24 15:17:09,464 - Object 8 (tvmonitor) disappeared
+2025-04-24 15:17:09,527 - New object detected: ID 9, Class: tvmonitor, Confidence: 0.79, Center: (np.int64(110), np.int64(357))
+2025-04-24 15:17:09,591 - Object 9 (tvmonitor) disappeared
+2025-04-24 15:17:09,927 - New object detected: ID 10, Class: tvmonitor, Confidence: 0.89, Center: (np.int64(108), np.int64(357))
+2025-04-24 15:17:10,537 - Object 10 (tvmonitor) disappeared
+2025-04-24 15:17:16,279 - Object 2 (person) disappeared
+2025-04-24 15:17:16,535 - New object detected: ID 11, Class: person, Confidence: 0.97, Center: (np.int64(206), np.int64(330))
+2025-04-24 15:17:16,935 - Object 11 (person) disappeared
+2025-04-24 15:17:17,081 - New object detected: ID 12, Class: bottle, Confidence: 0.68, Center: (np.int64(94), np.int64(330))
+2025-04-24 15:17:18,554 - Object 12 (person) disappeared
+2025-04-24 15:17:18,901 - New object detected: ID 13, Class: person, Confidence: 0.51, Center: (np.int64(226), np.int64(342))
+2025-04-24 15:17:19,015 - Periodic log: 1 objects detected
+- ID 13: person, Confidence: 0.92, Center: (np.int64(277), np.int64(340))
+2025-04-24 15:17:29,020 - Periodic log: 1 objects detected
+- ID 13: person, Confidence: 0.95, Center: (np.int64(283), np.int64(316))
+2025-04-24 15:17:39,064 - Periodic log: 1 objects detected
+- ID 13: person, Confidence: 0.98, Center: (np.int64(283), np.int64(316))
